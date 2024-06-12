@@ -1,0 +1,26 @@
+include <stdio.h>
+
+
+
+
+struct node 
+int data;
+struct node*next;
+}*head;
+void create(int n);
+void create(int n)
+{
+    struct node *newnode,*temp;
+    
+}
+int main()
+{
+    int n;
+    printf("Hello World");
+    scanf("%d",&n); `
+    create
+
+    return 0;
+}
+
+
